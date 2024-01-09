@@ -10,8 +10,8 @@
 
 ## Инструменты и дополнительные материалы, которые пригодятся для выполнения работы
 
-- [Макеты страниц в Figma](https://www.figma.com/file/cVkt27VJyz89SOXeqwHfPQ/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%BC%D0%B0%D0%BA%D0%B5%D1%82?type=design&node-id=0-1&mode=design&t=8aTrldb9Jt0HNMRo-0)
-- [Методология БЭМ](https://ru.bem.info/methodology/quick-start/)
+- [Макеты страниц в Figma](https://www.figma.com/file/WKuiURvXHT8e5lGaOcTlBA/Дизайн-макет?type=design&node-id=0-1&mode=design&t=ddn7TMlhdssoyXsu-0)
+
 
 
 ## Описание проекта 
